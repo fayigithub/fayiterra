@@ -1,2 +1,2 @@
-# fayiterra
-repository to host terraform resources
+# terraform
+repo to host terraform resources 
